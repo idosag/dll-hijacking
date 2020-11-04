@@ -1,0 +1,7 @@
+﻿  anti vm.cpp
+f:\html-sql\c++\dllhijacking\dllhijacking\anti vm.cpp(15): warning C4409: illegal instruction size
+  main.cpp
+  Generating Code...
+  LINK : F:\html-sql\c++\dllhijacking\Debug\dllhijacking.dll not found or not built by the last incremental link; performing full link
+     Creating library F:\html-sql\c++\dllhijacking\Debug\dllhijacking.lib and object F:\html-sql\c++\dllhijacking\Debug\dllhijacking.exp
+  dllhijacking.vcxproj -> F:\html-sql\c++\dllhijacking\Debug\dllhijacking.dll
